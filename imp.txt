@@ -1,0 +1,6 @@
+cd .\nodeServer\
+npm init
+npm i socket.io
+ install nodemon= npm i nodemon
+
+nodemon .\index.js
